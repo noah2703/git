@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#####   configuration SSH    ######
+######   configuration SSH    ######
 
 
 # Copier le fichier de configuration sur le serveur
