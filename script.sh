@@ -12,3 +12,4 @@ cp ./config__files/ssh/Banner /etc/Banner
 
 systemctl restart sshd 
 
+echo "succes"
